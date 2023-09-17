@@ -1,6 +1,6 @@
 import React from 'react'
 
-const PirChart = () => {
+const Bar = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const PirChart = () => {
   )
 }
 
-export default PirChart
+export default Bar
